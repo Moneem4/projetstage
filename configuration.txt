@@ -1,0 +1,9 @@
+1) install node packages
+npm install
+2) change root password to your password used in wampserver in app.js in sql connection
+3) create projetstage database in wampserver and import sql file of database
+4) nodemon src/app/app.js (run app.js)
+if you don't have nodemon : npm install nodemon
+5) ng serve (run project)
+if you don't have ng : npm install -g @angular/cli@latest
+
